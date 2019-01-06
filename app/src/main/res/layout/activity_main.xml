@@ -5,7 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-//comment
+
+
+
     <WebView
         android:id="@+id/webview1"
         android:layout_width="0dp"
@@ -21,7 +23,9 @@
         android:text="Internet connection is not available"
         android:textSize="18sp"
         tools:layout_editor_absoluteX="54dp"
-        tools:layout_editor_absoluteY="232dp" />
+        tools:layout_editor_absoluteY="269dp" />
+
+
 
 
 

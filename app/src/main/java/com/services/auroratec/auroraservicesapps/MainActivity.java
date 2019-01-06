@@ -1,5 +1,8 @@
 package com.services.auroratec.auroraservicesapps;
 
+import android.content.Context;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.KeyEvent;
@@ -9,6 +12,8 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 public class MainActivity extends AppCompatActivity {
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,6 +54,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+
 
 
 }
