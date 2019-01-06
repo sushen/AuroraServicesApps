@@ -21,7 +21,7 @@
         android:text="Internet connection is not available"
         android:textSize="18sp"
         tools:layout_editor_absoluteX="54dp"
-        tools:layout_editor_absoluteY="269dp" />
+        tools:layout_editor_absoluteY="232dp" />
 
 
 
